@@ -1,16 +1,16 @@
-import { createContext, useState } from "react";
+// import { createContext, useState } from "react";
 
-export const Context = createContext({ isAuthorized: false});
+// export const Context = createContext({ isAuthorized: false});
 
-const UserContextProvider = ({children}) =>{
-  const [isAuthorized, setIsAuthorized] = useState(false);
-  const [user, setUser] = useState({});
+// const UserContextProvider = ({children}) =>{
+//   const [isAuthorized, setIsAuthorized] = useState(false);
+//   const [user, setUser] = useState({});
 
-  return (
-    <Context.Provider value = {{isAuthorized, setIsAuthorized, user, setUser}}>
-     {children}
-    </Context.Provider>
-  );
-}
+//   return (
+//     <Context.Provider value = {{isAuthorized, setIsAuthorized, user, setUser}}>
+//      {children}
+//     </Context.Provider>
+//   );
+// }
 
-export default UserContextProvider;
+// export default UserContextProvider;
