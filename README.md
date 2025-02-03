@@ -4,7 +4,7 @@ A react based frontend For Job Portal System, which provides interfaces for both
 Employer Role
 ###  Post Job: Post the required vacancy for the job. 
 ### View Application: Views the application submitted by the job seeker while applying for the job.
-### View Job: Edit and delete the job posted
+### View Job: Edit and delete the job posted.
 
 
 Job Seeker 
