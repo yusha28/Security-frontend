@@ -23,7 +23,7 @@ Frontend and backend communicates with each other using RESTFUL API, handling op
 ## Future Works
 ### Multi-Language Support: Add support for multiple languages for a diverse user base.
 ### Mobile Optimization: Improve app performance and usability across mobile devices.
-### Advanced Analytics: Implement analytics for employers to track job posting and hiring trends
+### Advanced Analytics: Implement analytics for employers to track job posting and hiring trends.
 
 ## Challenges
 ### API Integration: Ensuring secure and seamless backend communication required careful planning
