@@ -33,7 +33,7 @@ Frontend and backend communicates with each other using RESTFUL API, handling op
 ### REACT_APP_API_URL: "http://10.0.2.2:4000/api/v1/
 
 ## Authors
-Yusha Neupane
+Yusha Neupane 
 
 ## Appendix
 #### Figure 1: Register page
