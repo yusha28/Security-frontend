@@ -1,5 +1,5 @@
 # Workwise - Frontend
-A react based frontend For Job Portal System, which provides interfaces for both job seeker and employer to seek and post job respecrively.
+A react based frontend For Job Portal System, which provides interfaces for both job seeker and employer to seek and post job respecrively. 
 ## Features 
 Employer Role
 ###  Post Job: Post the required vacancy for the job.
