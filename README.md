@@ -15,7 +15,7 @@ Job Seeker
 ## Technologies
 ### React.js: Frontend Library
 ### Vite: Frontend framework
-### CSS: Style and layout
+### CSS: Style and layout 
 
 # API Integration
 Frontend and backend communicates with each other using RESTFUL API, handling operations for both job seeker and employer.
