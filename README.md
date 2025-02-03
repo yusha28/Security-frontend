@@ -26,7 +26,7 @@ Frontend and backend communicates with each other using RESTFUL API, handling op
 ### Advanced Analytics: Implement analytics for employers to track job posting and hiring trends.
 
 ## Challenges
-### API Integration: Ensuring secure and seamless backend communication required careful planning
+### API Integration: Ensuring secure and seamless backend communication required careful planning.
 ### User Role Navigation: Creating an adaptive interface for both user roles was challenging but achieved through thoughtful design.
 
 ## Environmental Variables
