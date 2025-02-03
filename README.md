@@ -8,7 +8,7 @@ Employer Role
 
 
 Job Seeker 
-### Apply for job: Apply for the required and needed job
+### Apply for job: Apply for the required and needed job.
 ### Submit Application: Submits application for the job stating the details.
 
 
